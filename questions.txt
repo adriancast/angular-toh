@@ -1,0 +1,7 @@
+Este fichero contiene todas las dudas tontas que tengo durante el tutorial de TOH:
+    - Existe la función o el método 'toString' en las clases ? Debo de crearlo ?
+    - Tutorial al principio usa el ts para guardar la template. ¿ Esto es una burrada?
+    - En la primera sesión que fuí de MallorcaJS las componentes estaban estructuradas en carpetas.
+      ¿ Es recomendable hacer esto para todas las componentes?
+    - Cómo organizo el directorio app ? Los modulos en la raiz y cada componente en su carpeta? **Buscar en notas de la reunión de MallorcaJS**
+    - El CLI me ha importado forms en el module, segun el tutorial peta. Que mas cosas hace solo el CLI ? 
