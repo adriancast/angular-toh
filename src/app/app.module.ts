@@ -17,6 +17,7 @@ import { AppRoutingModule }     from './app-routing/app-routing.module';
     AppRoutingModule
   ],
   declarations: [
+    
     AppComponent,
     DashboardComponent,
     HeroDetailComponent,
